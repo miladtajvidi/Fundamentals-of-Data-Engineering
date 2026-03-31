@@ -16,4 +16,24 @@ Please give this repo a star if you found it helpful!**
 
 ## Chapter 1: Data Engineering Described
 
+- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) <br>
+
 ## Chapter 2: The Data Engineering Lifecycle
+
+## Chapter 3: Designing Good Data Architecture
+
+## Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+
+## Chapter 5: Data Generation in Source Systems
+
+## Chapter 6: Storage
+
+## Chapter 7: Ingestion
+
+## Chapter 8: Queries, Modeling, and Transformation
+
+## Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+## Chapter 10: Security and Privacy
+
+## Chapter 11: The Future of Data Engineering
