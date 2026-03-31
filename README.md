@@ -26,24 +26,37 @@ Please give this repo a star if you found it helpful!**
 - [Doing Data Science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6) <br>
 - [The Downfall of the Data Engineer](https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b) <br>
 - [The Future of Data Engineering is the Convergence of Disciplines](https://mode.com/blog/future-of-data-engineering-jasmine-tsai) <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
+- [How CEOs Can Lead a Data-Driven Culture](https://hbr.org/2020/03/how-ceos-can-lead-a-data-driven-culture) <br>
+- [Information Management Body of Knowledge Wikipedia page](https://en.wikipedia.org/wiki/Information_Management_Body_of_Knowledge) <br>
+- [Information management Wikipedia page](https://en.wikipedia.org/wiki/Information_management) <br>
+- [On Complexity in Big Data](https://www.oreilly.com/radar/on-complexity-in-big-data/) <br>
+- [OpenAI’s new language generator GPT-3 is shockingly good—and completely mindless](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/) <br>
+- [The Rise of the Data Engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/) <br>
+- [A Short History Of Big Data](https://datafloq.com/big-data-history/) <br>
+- [Skills of the Data Architect](https://robertlambert.net/2012/11/skills-of-the-data-architect/) <br>
+- [The 3 Levels of Data Analysis- A Framework for Assessing Data Organization Maturity](https://about.gitlab.com/blog/three-levels-data-analysis/) <br>
+- [Data architect role](https://www.cio.com/article/190852/what-is-a-data-architect-its-data-framework-visionary.html) <br>
+- [Which profession is more complex to become, a data engineer or a data scientist?](https://www.quora.com/Which-profession-is-more-complex-to-become-a-data-engineer-or-a-data-scientist) <br>
+
+
 
 
 ## Chapter 2: The Data Engineering Lifecycle
+
+- [A comparison of data processing frameworks](https://kapernikov.com/a-comparison-of-data-processing-frameworks/) <br>
+- [DAMA website](https://dama.org/learning-resources/dama-data-management-body-of-knowledge-dmbok/) <br>
+- [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf) <br>
+- [Data processing Wikipedia page](https://en.wikipedia.org/wiki/Data_processing) <br>
+- [Data transformation Wikipedia page](https://en.wikipedia.org/wiki/Data_transformation_(computing)) <br>
+- [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) <br>
+- [5 steps to begin collecting the value of your data](https://www.lean-data.nl/tag/operational-metadata/) <br>
+- [Getting started with DevOps automation](https://github.blog/enterprise-software/devops/getting-started-with-devops-automation/) <br>
+- [Incident management in the age of DevOps](https://www.atlassian.com/incident-management/devops) <br>
+- [An Introduction to Dagster: The orchestrator for the full data lifecycle](https://www.youtube.com/watch?v=MF5OaQEOF2E) <br>
+- [Is DevOps Related to DataOps?](https://www.dataops.dev/dataops-vs-devops) <br>
+- [What is incident response?](https://www.atlassian.com/incident-management/incident-response) <br>
+- [To How To Stay Ahead of Data Debt and Downtime](https://www.secoda.co/blog/staying-ahead-of-data-debt) <br>
+- [What Is Metadata?](https://www.dataversity.net/data-concepts/what-is-metadata/) <br>
 
 ## Chapter 3: Designing Good Data Architecture
 
