@@ -17,6 +17,31 @@ Please give this repo a star if you found it helpful!**
 ## Chapter 1: Data Engineering Described
 
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) <br>
+- [The AlphaGo research web page](https://deepmind.google/research/alphago/) <br>
+- [Building Analytics Teams](https://www.amazon.ca/Building-Analytics-Teams-intelligence-improvement/dp/1800203160) <br>
+- [What is Data Engineering?](https://www.oreilly.com/library/view/what-is-data/9781492075578/ch01.html) <br>
+- [Data as a Product vs. Data as a Service](https://readtechnically.medium.com/data-as-a-product-vs-data-as-a-service-d9f7e622dc55) <br>
+- [Data engineering: A quick and simple definition](https://www.oreilly.com/content/data-engineering-a-quick-and-simple-definition/) <br>
+- [Data Teams](https://www.amazon.ca/Data-Teams-Management-Successful-Data-Focused/dp/1484262271) <br>
+- [Doing Data Science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6) <br>
+- [The Downfall of the Data Engineer](https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b) <br>
+- [The Future of Data Engineering is the Convergence of Disciplines](https://mode.com/blog/future-of-data-engineering-jasmine-tsai) <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+
 
 ## Chapter 2: The Data Engineering Lifecycle
 
