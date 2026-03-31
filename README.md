@@ -60,6 +60,35 @@ Please give this repo a star if you found it helpful!**
 
 ## Chapter 3: Designing Good Data Architecture
 
+- [Anemic Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html) <br>
+- [Big data architectures](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures) <br>
+- [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html) <br>
+- [The Building Blocks of a Modern Data Platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165/) <br>
+- [Choosing Open Wisely](https://www.snowflake.com/en/blog/choosing-open-wisely/) <br>
+- [Choosing the Right Architecture for Global Data Distribution](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns) <br>
+- [Data Orientation Wikipedia page](https://en.wikipedia.org/wiki/Data_orientation) <br>
+- [A comparison of data processing frameworks](https://kapernikov.com/a-comparison-of-data-processing-frameworks/) <br>
+- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/) <br>
+- [The curse of the data lake monster](https://www.thoughtworks.com/insights/blog/curse-data-lake-monster) <br>
+- [Data Architecture: A Primer for the Data Scientist](https://www.oreilly.com/library/view/data-architecture-a/9780128169179/) <br>
+- [Data Architecture: Complex vs. Complicated](https://datalere.com/articles/data-architecture-complex-vs-complicated) <br>
+- [Data as a Product vs. Data as a Service](https://readtechnically.medium.com/data-as-a-product-vs-data-as-a-service-d9f7e622dc55) <br>
+- [The Data Dichotomy: Rethinking the Way We Treat Data and Services](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) <br>
+- [Data Fabric defined](https://www.jamesserra.com/archive/2021/06/data-fabric-defined/) <br>
+- [Data Warehouse Architecture: Overview](https://roelantvos.com/blog/enterprise_bi_architecture_overview/documentation-breakdown/) <br>
+- [Disasters I've seen in a microservices world](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51) <br>
+- [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html) <br>
+- [Down with pipeline debt: introducing Great Expectations](https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a) <br>
+- [Eager Read Derivation](https://martinfowler.com/bliki/EagerReadDerivation.html) <br>
+- [End-To-End Serverless ETL Orchestration in AWS: A Guide](https://aws.plainenglish.io/end-to-end-serverless-etl-orchestration-in-aws-322fedd4402f) <br>
+- [The Role of Head of Enterprise Architecture in Driving Digital Transformation](https://www.gartner.com/en/information-technology/role/enterprise-architecture-technology-leaders) <br>
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) <br>
+- [Falling Back in Love with Data Pipelines](https://devops.com/falling-back-in-love-with-data-pipelines/) <br>
+- [5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it) <br>
+- []() <br>
+- []() <br>
+
+
 ## Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
 
 ## Chapter 5: Data Generation in Source Systems
