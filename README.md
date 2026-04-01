@@ -85,8 +85,33 @@ Please give this repo a star if you found it helpful!**
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) <br>
 - [Falling Back in Love with Data Pipelines](https://devops.com/falling-back-in-love-with-data-pipelines/) <br>
 - [5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it) <br>
+- [Focusing on Events](https://martinfowler.com/eaaDev/EventNarrative.html) <br>
+- [Functional Data Engineering — a modern paradigm for batch data processing](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a) <br>
+- [Google Cloud Well-Architected Framework](https://docs.cloud.google.com/architecture/framework) <br>
+- [How to build a data architecture to drive innovation—today and tomorrow](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-to-build-a-data-architecture-to-drive-innovation-today-and-tomorrow) <br>
+- [Introducing Dagster](https://medium.com/dagster-io/introducing-dagster-dbd28442b2b7) <br>
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
+- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) <br>
+- [Modern CI is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/) <br>
+- [The Modern Data Stack: Past, Present, and Future](https://www.getdbt.com/blog/future-of-the-modern-data-stack) <br>
+- [A personal implementation of Modern Data Architecture: Getting Strava data into Google Cloud Platform](https://medium.com/@reevery/a-personal-implementation-of-modern-data-architecture-getting-strava-data-into-google-cloud-49506446ebd4) <br>
+- [Polyglot Persistence](https://martinfowler.com/bliki/PolyglotPersistence.html) <br>
+- [Potemkin Data Science](https://mcorrell.medium.com/potemkin-data-science-fba2b5ba5cc6) <br>
+- [Principled Data Engineering, Part I: Architectural Overview](https://medium.com/ssense-tech/principled-data-engineering-part-i-architectural-overview-6d4bdf89b657) <br>
+- [Questioning the Lambda Architecture](https://www.oreilly.com/radar/questioning-the-lambda-architecture/) <br>
+- [Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/) <br>
+- [Reporting Database](https://martinfowler.com/bliki/ReportingDatabase.html) <br>
+- [The Rise of the Metadata Lake](https://towardsdatascience.com/the-rise-of-the-metadata-lake-1e95127594de/) <br>
+- [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/) <br>
 - []() <br>
 - []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+- []() <br>
+
+
 
 
 ## Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
