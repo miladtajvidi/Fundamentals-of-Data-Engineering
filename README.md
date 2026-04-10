@@ -723,7 +723,32 @@ Please give this repo a star if you found it helpful!**
 
 ## Chapter 8: Queries, Modeling, and Transformation
 
-- []() <br>
+- [Building a Real-Time Data Vault in Snowflake](https://www.snowflake.com/en/developers/guides/vhol-data-vault/) <br>
+- [Data Vault — An Overview](https://medium.com/snowflake/data-vault-an-overview-27bed8a1bf9f) <br>
+- [Data Vault 2.0 Modeling Basics](https://www.red-gate.com/blog/data-vault-series-data-vault-2-0-modeling-basics/) <br>
+- [A Detailed Guide on SQL Query Optimization](https://www.analyticsvidhya.com/blog/2021/10/a-detailed-guide-on-sql-query-optimization/) <br>
+- [Difference between Kimball and Inmon](https://www.geeksforgeeks.org/dbms/difference-between-kimball-and-inmon/) <br>
+- [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7) <br>
+- [The Evolution of the Corporate Information Factory](https://www.ewsolutions.com/evolution-corporate-information-factory/) <br>
+- [Using cached query results](https://docs.cloud.google.com/bigquery/docs/cached-results) <br>
+- [Cannot combine fields due to fan-out issues?](https://docs.holistics.io/docs/faqs/fan-out-issue) <br>
+- [How a SQL Database Engine Works](https://medium.com/@grepdennis/how-a-sql-database-engine-works-c67364e5cdfd) <br>
+- [How Should Organizations Structure their Data?](https://towardsdatascience.com/how-should-organizations-structure-their-data-c19b66d629e/) <br>
+- [Inmon or Kimball: Which approach is suitable for your data warehouse?](https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse) <br>
+- [Introduction to Data Vault Modeling](https://kentgraziano.com/wp-content/uploads/2012/02/introduction-to-data-vault-modeling.pdf)
+- [Introduction to Data Warehousing](https://moi.vonos.net/programming/dwh-intro/)
+- [Introduction to Data Vault for Data Warehousing](https://moi.vonos.net/programming/dwh-datavault/)
+- [Dimensional Modeling Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
+- [Modeling of real-time streaming data?](https://stats.stackexchange.com/questions/898/modeling-of-real-time-streaming-data)
+- [The New “Unified Star Schema” Paradigm in Analytics Data Modeling Review](https://towardsdatascience.com/the-new-unified-star-schema-paradigm-in-analytics-data-modeling-review-a245b2641dc8/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
 
