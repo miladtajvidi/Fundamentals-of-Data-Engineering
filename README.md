@@ -12,6 +12,569 @@ Please give this repo a star if you found it helpful!**
 
 # Glossary
 
+## 1. Foundations of data engineering
+- data engineering <br>
+- data engineering lifecycle <br>
+- data lifecycle <br>
+- data architects <br>
+- data engineers <br>
+- data maturity <br>
+- Data Management Maturity (DMM) <br>
+- Data Science Hierarchy of Needs <br>
+- big data era <br>
+- data lifecycle engineers <br>
+- stakeholders <br>
+- upstream stakeholders <br>
+- downstream stakeholders <br>
+- business stakeholders <br>
+- systems stakeholder <br>
+
+## 2. Data architecture and system design
+- data architecture <br>
+- enterprise architecture <br>
+- business architecture <br>
+- technical architecture <br>
+- operational architecture <br>
+- application architecture <br>
+- architecture tiers <br>
+- baseline architecture <br>
+- target architecture <br>
+- agile architecture <br>
+- collaborative architecture <br>
+- command-and-control architecture <br>
+- event-driven architecture <br>
+- microservices architecture <br>
+- monolithic architectures <br>
+- distributed monolith pattern <br>
+- n-tier architectures <br>
+- single-tier architectures <br>
+- three-tier architectures <br>
+- multitier architectures <br>
+- shared-nothing architectures <br>
+- shared disk architectures <br>
+- domains <br>
+- services <br>
+- tight coupling <br>
+- loose coupling <br>
+- decoupling <br>
+- modularization <br>
+- scalability <br>
+- failure planning <br>
+- resilience <br>
+- elasticity <br>
+- availability <br>
+- reliability <br>
+
+## 3. Data engineering lifecycle stages
+- generation stage <br>
+- ingestion stage <br>
+- storage stage <br>
+- transformation stage <br>
+- serving data stage <br>
+
+## 4. Source systems and data generation
+- source systems <br>
+- application databases <br>
+- transactional databases <br>
+- OLTP systems <br>
+- OLAP systems <br>
+- APIs <br>
+- REST APIs <br>
+- GraphQL <br>
+- gRPC <br>
+- files <br>
+- file formats <br>
+- logs <br>
+- database logs <br>
+- real-time logs <br>
+- event-based data <br>
+- messages <br>
+- streams <br>
+- IoT <br>
+- devices <br>
+- third-party data sources <br>
+- data marketplaces <br>
+- data sharing <br>
+- analog data <br>
+- digital data <br>
+- structured data <br>
+- semistructured data <br>
+- unstructured data <br>
+- bounded data <br>
+- unbounded data <br>
+- event time <br>
+- ingestion time <br>
+- process time <br>
+- processing time <br>
+- types of time <br>
+
+## 5. Ingestion and data movement
+- data ingestion <br>
+- batch data ingestion <br>
+- streaming data ingestion <br>
+- near real-time ingestion <br>
+- real-time ingestion <br>
+- synchronous ingestion <br>
+- asynchronous ingestion <br>
+- push model <br>
+- pull model <br>
+- payloads <br>
+- throughput <br>
+- durability <br>
+- frequency <br>
+- size <br>
+- shape <br>
+- location <br>
+- change data capture (CDC) <br>
+- continuous CDC <br>
+- batch-oriented CDC <br>
+- log-based CDC <br>
+- fast-follower CDC <br>
+- database replication <br>
+- direct database connection <br>
+- file export <br>
+- file-based export <br>
+- managed data connectors <br>
+- shell interface <br>
+- web interfaces <br>
+- web scraping <br>
+- webhooks <br>
+- SFTP <br>
+- SCP <br>
+- SSH protocol <br>
+- electronic data interchange (EDI) <br>
+- transfer appliances <br>
+- data migration <br>
+- dead-letter queues <br>
+- error handling <br>
+- snapshots <br>
+- incremental updates <br>
+- full snapshots <br>
+- update operations <br>
+
+## 6. Messaging, events, and streaming systems
+- event-streaming platforms <br>
+- message queues <br>
+- consumers <br>
+- publishers <br>
+- FIFO <br>
+- partition keys <br>
+- stream partitions <br>
+- topics <br>
+- state <br>
+- timestamps <br>
+- idempotent message systems <br>
+- hotspotting <br>
+- late-arriving data <br>
+- replay <br>
+- maximum message retention time <br>
+- streaming buffers <br>
+- Kappa architecture <br>
+- Lambda architecture <br>
+- Dataflow model <br>
+- stream-to-batch storage architecture <br>
+
+## 7. Storage systems and storage architecture
+- data storage systems <br>
+- storage abstractions <br>
+- storage lifecycle <br>
+- block storage <br>
+- file storage <br>
+- object storage <br>
+- streaming storage <br>
+- distributed storage <br>
+- single machine storage <br>
+- cache and memory-based storage <br>
+- memory-based storage systems <br>
+- object store-backed filesystems <br>
+- HDFS <br>
+- NAS <br>
+- SAN <br>
+- local disk storage <br>
+- instance store volumes <br>
+- EBS <br>
+- archival storage <br>
+- cold storage <br>
+- hot storage <br>
+- storage classes <br>
+- storage tiers <br>
+- single-tenant storage <br>
+- multitenant storage <br>
+- data retention <br>
+- time to live (TTL) <br>
+- automated lifecycle policies <br>
+- automatic data lifecycle management <br>
+- separation of compute from storage <br>
+- hybrid object storage <br>
+- hybrid separation <br>
+- data catalogs <br>
+- schema on read <br>
+- schema on write <br>
+
+## 8. Physical infrastructure and hardware concepts
+- magnetic disks <br>
+- solid-state drives (SSDs) <br>
+- RAM <br>
+- DRAM <br>
+- NVRAM <br>
+- areal density <br>
+- linear density <br>
+- disk transfer speed <br>
+- rotational latency <br>
+- cache hierarchy <br>
+- reverse cache <br>
+- CPU <br>
+- networking <br>
+- serialization <br>
+- decompression <br>
+- compression algorithms <br>
+- lossless compression <br>
+- lossy compression <br>
+- Harvard architecture <br>
+- von Neumann architecture <br>
+
+## 9. Data formats, serialization, and table/storage formats
+- CSV <br>
+- JSON <br>
+- JSONL <br>
+- XML <br>
+- Avro <br>
+- Apache Arrow <br>
+- Parquet <br>
+- ORC <br>
+- row-based serialization <br>
+- columnar serialization <br>
+- hybrid serialization <br>
+- in-memory serialization <br>
+- serialization formats <br>
+- database storage engines <br>
+- Iceberg <br>
+- Hudi <br>
+- table management technologies <br>
+
+## 10. Databases and data stores
+- relational databases <br>
+- RDBMSs <br>
+- DBMSs <br>
+- nonrelational / NoSQL databases <br>
+- document stores <br>
+- key-value databases <br>
+- graph databases <br>
+- wide-column databases <br>
+- time-series databases <br>
+- search databases <br>
+- massively parallel processing (MPP) databases <br>
+- real-time analytical databases <br>
+- query optimizers <br>
+- indexes <br>
+- B-trees <br>
+- log-structured merge-trees (LSMs) <br>
+- collections <br>
+- tables <br>
+- documents <br>
+- relations <br>
+- rows <br>
+- columns <br>
+- fields <br>
+- primary keys <br>
+- foreign keys <br>
+
+## 11. Querying and SQL
+- queries <br>
+- query engines <br>
+- query execution <br>
+- SQL <br>
+- DDL <br>
+- DML <br>
+- DCL <br>
+- TCL <br>
+- CTEs <br>
+- nested subqueries <br>
+- temporary tables <br>
+- explain plan <br>
+- full table scans <br>
+- query performance <br>
+- query pushdown <br>
+- federated queries <br>
+- prejoining data <br>
+- row explosion <br>
+- pruning <br>
+- vacuuming <br>
+- concurrency <br>
+- latency <br>
+
+## 12. Transformation and processing
+- transformations <br>
+- batch transformations <br>
+- streaming transformations <br>
+- ETL <br>
+- ELT <br>
+- STL <br>
+- extract <br>
+- load <br>
+- transform-on-read ELT <br>
+- reverse ETL <br>
+- data wrangling <br>
+- derived data <br>
+- business logic <br>
+- composable materialized views <br>
+- materialized views <br>
+- views <br>
+- live tables <br>
+- Spark API <br>
+- Spark <br>
+- Apache Beam <br>
+- MapReduce <br>
+- memory caching <br>
+- spill to disk <br>
+- shuffle hash joins <br>
+- broadcast joins <br>
+- distributed joins <br>
+- node joins <br>
+- micro-batch approach <br>
+- data virtualization <br>
+
+## 13. Data modeling and schema design
+- data modeling <br>
+- conceptual data models <br>
+- logical data models <br>
+- physical data models <br>
+- normalization <br>
+- denormalization <br>
+- normal forms <br>
+- 1NF <br>
+- 2NF <br>
+- 3NF <br>
+- Boyce-Codd <br>
+- partial dependency <br>
+- transitive dependency <br>
+- grain <br>
+- star schema <br>
+- fact tables <br>
+- dimension tables <br>
+- conformed dimension <br>
+- slowly changing dimensions (SCDs) <br>
+- wide denormalized tables <br>
+- PIT tables <br>
+- bridge tables <br>
+- normalized schemas <br>
+- relational schema <br>
+- Data Vault <br>
+- hubs <br>
+- links <br>
+- satellites <br>
+- Inmon <br>
+- Kimball <br>
+- schema evolution <br>
+- schema updates <br>
+- schema changes <br>
+- schema registries <br>
+- fixed schema <br>
+- schemaless option <br>
+
+## 14. Analytics, BI, and serving data to users
+- serving data <br>
+- business intelligence (BI) <br>
+- dashboards <br>
+- reports <br>
+- ad hoc analysis <br>
+- business analytics <br>
+- operational analytics <br>
+- embedded analytics <br>
+- analytics as code <br>
+- headless BI <br>
+- semantic layers <br>
+- metrics layers <br>
+- notebooks <br>
+- file exchange <br>
+- serving data via databases <br>
+- self-service data <br>
+- data products <br>
+- data definitions <br>
+- implicit data definitions <br>
+- institutional knowledge <br>
+- trust <br>
+- use cases <br>
+- validation <br>
+
+## 15. Machine learning and data products
+- machine learning <br>
+- ML <br>
+- machine learning engineers <br>
+- MLOps <br>
+- featurization <br>
+- data featurization <br>
+- AI researchers <br>
+- data scientists <br>
+- data applications <br>
+- fusion of data with applications <br>
+- tight feedback between applications and machine learning <br>
+
+## 16. Governance, metadata, quality, and management
+- data management <br>
+- data governance <br>
+- data accountability <br>
+- data quality <br>
+- quality <br>
+- accuracy <br>
+- completeness <br>
+- timeliness <br>
+- discoverability <br>
+- metadata <br>
+- business metadata <br>
+- technical metadata <br>
+- operational metadata <br>
+- pipeline metadata <br>
+- schema metadata <br>
+- reference metadata <br>
+- data-lineage metadata <br>
+- version metadata <br>
+- autogenerated metadata <br>
+- human-generated metadata <br>
+- data lineage <br>
+- data lineage tools <br>
+- data observability <br>
+- DODD <br>
+- data contracts <br>
+- master data management <br>
+- golden records <br>
+- lookup data <br>
+- data integration <br>
+- lifecycle management <br>
+- compliance <br>
+- regulations <br>
+
+## 17. DataOps, orchestration, and software engineering practices
+- DataOps <br>
+- data orchestration <br>
+- orchestration <br>
+- DAGs <br>
+- schedulers <br>
+- Airflow <br>
+- Airflow DAG <br>
+- pipelines as code <br>
+- infrastructure as code (IaC) <br>
+- automation <br>
+- monitoring <br>
+- observability <br>
+- incident response <br>
+- TDD <br>
+- software engineering <br>
+- open source frameworks <br>
+- core data processing code <br>
+- streaming data processing <br>
+- windowing methods <br>
+- data reliability engineers <br>
+- touchless production <br>
+
+## 18. Security, privacy, and compliance
+- security <br>
+- privacy <br>
+- data ethics and privacy <br>
+- active security <br>
+- defensive posture <br>
+- paranoia <br>
+- negative thinking <br>
+- access policies <br>
+- principle of least privilege <br>
+- zero-trust security models <br>
+- shared responsibility model <br>
+- network security <br>
+- encryption <br>
+- full-disk encryption <br>
+- logging <br>
+- alerting <br>
+- backups <br>
+- disaster prevention <br>
+- security policies <br>
+- patches <br>
+- credential handling <br>
+- public access <br>
+- permissions monitoring <br>
+- resource use monitoring <br>
+- human security breaches <br>
+- internal security research <br>
+- FERPA <br>
+- HIPAA <br>
+- compliance <br>
+- regulations <br>
+
+## 19. Cloud, infrastructure choices, and platform strategy
+- cloud services <br>
+- cloud data warehouses <br>
+- cloud networking <br>
+- content delivery networks <br>
+- multicloud <br>
+- hybrid cloud <br>
+- cloud repatriation <br>
+- cloud of clouds <br>
+- direct network connections <br>
+- availability zones <br>
+- regions <br>
+- multiregion networking <br>
+- IaaS <br>
+- PaaS <br>
+- SaaS <br>
+- serverless <br>
+- servers <br>
+- container platforms <br>
+- lightweight virtual machines <br>
+- cloud economics <br>
+- FinOps <br>
+- cost optimization <br>
+- TCO <br>
+- TOCO <br>
+- capex <br>
+- opex <br>
+- data gravity <br>
+- data egress costs <br>
+- pay-as-you-go systems <br>
+- cloud-first approach <br>
+- proprietary cloud offerings <br>
+
+## 20. Technology selection and platform strategy
+- build versus buy <br>
+- open source software <br>
+- commercial open source software <br>
+- community-managed open source software <br>
+- proprietary walled gardens <br>
+- interoperability <br>
+- speed to market <br>
+- immutable versus transitory technologies <br>
+- monolith versus modular <br>
+- serverless versus servers <br>
+- benchmarks <br>
+- location <br>
+- one-size-fits-all solutions <br>
+- shiny object syndrome <br>
+- resume-driven development <br>
+- cargo-cult engineering <br>
+- overarchitecting <br>
+- curse of familiarity <br>
+- reversible decisions <br>
+- one-way doors <br>
+- two-way doors <br>
+- choose common components wisely <br>
+
+## 21. Modern platform trends and emerging patterns
+- modern data stack <br>
+- live data stacks <br>
+- data platforms <br>
+- cloud-scale data OS <br>
+- data connectors <br>
+- off-the-shelf data connectors <br>
+- improved interoperability <br>
+- move toward live data stacks <br>
+- real-time analytical databases <br>
+- streaming pipelines <br>
+- rise of spreadsheets <br>
+- fusion of data with applications <br>
+- lakehouses <br>
+- data lakehouses <br>
+- trend toward convergence <br>
+
+
+
 # Additional Reading
 
 ## Chapter 1: Data Engineering Described
