@@ -666,15 +666,25 @@ Please give this repo a star if you found it helpful!**
 - [Reporting Database](https://martinfowler.com/bliki/ReportingDatabase.html) <br>
 - [The Rise of the Metadata Lake](https://towardsdatascience.com/the-rise-of-the-metadata-lake-1e95127594de/) <br>
 - [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/) <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-- []() <br>
-
-
+- [7 Modern Data Architecture Principles](https://www.atscale.com/blog/the-six-modern-principles-of-modern-data-architecture/) <br>
+- [Data Warehouse Architecture and Design: Best Practices](https://www.snowflake.com/en/fundamentals/data-warehouse-architecture-and-design/) <br>
+- [Software infrastructure 2.0: a wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html) <br>
+- [To How To Stay Ahead of Data Debt and Downtime](https://www.secoda.co/blog/staying-ahead-of-data-debt) <br>
+- [Tactics vs. Strategy (SOA & The Tarpit of Irrelevancy)](https://memeagora.blogspot.com/2009/01/tactics-vs-strategy-soa-tarpit-of.html) <br>
+- [Test data quality at scale with Deequ](https://aws.amazon.com/blogs/big-data/test-data-quality-at-scale-with-deequ/) <br>
+- [What is three-tier architecture?](https://www.ibm.com/think/topics/three-tier-architecture?mhsrc=ibmsearch_a&mhq=three-tier%20architecture) <br>
+- [The Top 5 Data Trends for CDOs to Watch Out for in 2021](https://towardsdatascience.com/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16/) <br>
+- [240 tables and no documentation?](https://minimalmodeling.substack.com/p/240-tables-and-no-documentation) <br>
+- [What is Data Observability? 5 Key Pillars To Know](https://www.montecarlodata.com/blog-what-is-data-observability/) <br>
+- [Apache Flink Roadmap](https://flink.apache.org/what-is-flink/roadmap/) <br>
+- [Utility Vs Strategic Dichotomy](https://martinfowler.com/bliki/UtilityVsStrategicDichotomy.html) <br>
+- [What Is a Lakehouse?](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html) <br>
+- [What is data architecture? A framework to manage data](https://www.cio.com/article/190941/what-is-data-architecture-a-framework-for-managing-data.html) <br>
+- [What is the Open Data Ecosystem and Why it’s Here To Stay](https://casberw.medium.com/what-is-the-open-data-ecosystem-and-why-its-here-to-stay-60c06f19011b) <br>
+- [What’s wrong with MLOps?](https://laszlo.substack.com/p/whats-wrong-with-mlops) <br>
+- [What the Heck is a Data Mesh?!](https://cnr.sh/posts/2021-06-08-what-the-heck-data-mesh/) <br>
+- [Who Needs an Architect?](https://files.catwell.info/misc/mirror/2003-martin-fowler-who-needs-an-architect.pdf) <br>
+- [Zachman Framework](https://en.wikipedia.org/wiki/Zachman_Framework) <br>
 
 
 ## Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
@@ -735,19 +745,18 @@ Please give this repo a star if you found it helpful!**
 - [How a SQL Database Engine Works](https://medium.com/@grepdennis/how-a-sql-database-engine-works-c67364e5cdfd) <br>
 - [How Should Organizations Structure their Data?](https://towardsdatascience.com/how-should-organizations-structure-their-data-c19b66d629e/) <br>
 - [Inmon or Kimball: Which approach is suitable for your data warehouse?](https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse) <br>
-- [Introduction to Data Vault Modeling](https://kentgraziano.com/wp-content/uploads/2012/02/introduction-to-data-vault-modeling.pdf)
-- [Introduction to Data Warehousing](https://moi.vonos.net/programming/dwh-intro/)
-- [Introduction to Data Vault for Data Warehousing](https://moi.vonos.net/programming/dwh-datavault/)
-- [Dimensional Modeling Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
-- [Modeling of real-time streaming data?](https://stats.stackexchange.com/questions/898/modeling-of-real-time-streaming-data)
-- [The New “Unified Star Schema” Paradigm in Analytics Data Modeling Review](https://towardsdatascience.com/the-new-unified-star-schema-paradigm-in-analytics-data-modeling-review-a245b2641dc8/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Introduction to Data Vault Modeling](https://kentgraziano.com/wp-content/uploads/2012/02/introduction-to-data-vault-modeling.pdf) <br>
+- [Introduction to Data Warehousing](https://moi.vonos.net/programming/dwh-intro/) <br>
+- [Introduction to Data Vault for Data Warehousing](https://moi.vonos.net/programming/dwh-datavault/) <br>
+- [Dimensional Modeling Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) <br>
+- [Modeling of real-time streaming data?](https://stats.stackexchange.com/questions/898/modeling-of-real-time-streaming-data) <br>
+- [The New “Unified Star Schema” Paradigm in Analytics Data Modeling Review](https://towardsdatascience.com/the-new-unified-star-schema-paradigm-in-analytics-data-modeling-review-a245b2641dc8/) <br>
+- [Slowly Changing Dimensions](https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/slowlychangingdimensions.htm) <br>
+- [Corporate Information Factory](https://www.sciencedirect.com/topics/computer-science/corporate-information-factory) <br>
+- [Types of Data Warehousing Architecture](https://medium.com/@amritha_fernando/types-of-data-warehousing-architecture-9a656443b510) <br>
+- [Method and apparatus for functional integration of metadata US patent](https://patentimages.storage.googleapis.com/11/76/df/b9bcd21d6a9433/US8972463.pdf) <br>
+- [Bill Inmon Data Warehouse](https://www.zentut.com/data-warehouse/bill-inmon-data-warehouse/) <br>
+
 
 
 ## Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
