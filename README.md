@@ -4,7 +4,7 @@
 
 # Fundamentals-of-Data-Engineering
 
-This repo contains the additional reading resources and a glossary of data engineering terms and concepts cited in the [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.ca/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) by Joe Reis & Matt Housley.<br>
+This repo contains the still-available additional reading resources and a glossary of data engineering terms and concepts cited in the [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.ca/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) by Joe Reis & Matt Housley.<br>
 **The purpose of this repo is to serve as a complimentary resource for ease of access when you're reading the book.
 Please contact me know if you're one of the authors and want your papers' links removed.<br>
 Please note that the hyperlink titles only include titles to make your search convenient. Please remember to cite them properly in your works.<br>
@@ -116,16 +116,74 @@ Please give this repo a star if you found it helpful!**
 
 ## Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
 
+- [Cloud FinOps](https://www.oreilly.com/library/view/cloud-finops/9781492054610/) <br>
+- [Cloud Infrastructure: The Definitive Guide for Beginners](https://www.lastweekinaws.com/blog/cloud-infrastructure-last-week-in-aws/) <br>
+- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/) <br>
+- [What is FinOps?](https://www.finops.org/introduction/what-is-finops/) <br>
+- [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://www.mattturck.com/data2021) <br>
+- [What's Next for Analytical Databases? (MotherDuck)](https://www.youtube.com/watch?v=E2fi-Y6RiTw) <br>
+- [The Unfulfilled Promise of Serverless](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/) <br>
+- [Understanding the modern data stack](https://www.fivetran.com/blog/what-is-the-modern-data-stack) <br>
+
+
+
 ## Chapter 5: Data Generation in Source Systems
+
+- [Schema Evolution and Compatibility for Schema Registry on Confluent Platform](https://docs.confluent.io/platform/current/schema-registry/fundamentals/schema-evolution.html) <br>
+- [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/) <br>
+- [Database System Concepts](https://www.db-book.com/) <br>
+- [Modernizing Business Data Indexing](https://engineeringblog.yelp.com/2021/06/modernizing-business-data-indexing.html) <br>
+- [Test data quality at scale with Deequ](https://aws.amazon.com/blogs/big-data/test-data-quality-at-scale-with-deequ/) <br>
+- [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/) <br>
+
 
 ## Chapter 6: Storage
 
+- [Data orientation](https://en.wikipedia.org/wiki/Data_orientation) <br>
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) <br>
+- [Diving Into Delta Lake: Schema Enforcement & Evolution](https://www.databricks.com/blog/2019/09/24/diving-into-delta-lake-schema-enforcement-evolution.html) <br>
+- [Hot Data vs. Cold Data: Why It Matters?](https://www.alibabacloud.com/blog/hot-data-vs--cold-data-why-it-matters_595689) <br>
+- [Rowise vs Columnar Database? Theory and in Practice](https://mangatmodi.medium.com/rowise-vs-columnar-database-theory-and-in-practice-53f54c8f6505) <br>
+- [What is a Vector Database & How Does it Work? Use Cases + Examples](https://www.pinecone.io/learn/vector-database/) <br>
+- [What is Object Storage? A Definition and Overview](https://www.lastweekinaws.com/blog/what-is-object-storage-a-definition-and-overview/) <br>
+- [The What, Why, When, and How of Incremental Loads](https://www.timmitchell.net/post/2020/07/23/incremental-loads/) <br>
+
+
+
 ## Chapter 7: Ingestion
+
+- [Airbyte's Sync Modes](https://docs.airbyte.com/platform/using-airbyte/core-concepts/sync-modes) <br>
+- [Introduction to Apache Flink](https://www.oreilly.com/library/view/introduction-to-apache/9781491977132/ch06.html) <br>
+- [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](https://research.google/pubs/the-dataflow-model-a-practical-approach-to-balancing-correctness-latency-and-cost-in-massive-scale-unbounded-out-of-order-data-processing/) <br>
+- [Streaming pipelines](https://docs.cloud.google.com/dataflow/docs/concepts/streaming-pipelines) <br>
+- [Snapshot window](https://learn.microsoft.com/en-us/stream-analytics-query/snapshot-window-azure-stream-analytics) <br>
 
 ## Chapter 8: Queries, Modeling, and Transformation
 
+- []() <br>
+
 ## Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+- [Data Mesh](https://www.oreilly.com/library/view/data-mesh/9781492092384/) <br>
+- [How to Quickly Anonymize Personal Names in Python](https://towardsdatascience.com/how-to-quickly-anonymize-personal-names-in-python-6e78115a125b/) <br>
+- [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html) <br>
+- [Self-Service Business Intelligence: Dissolving the Barriers to Creative Decision-Support Solutions](https://www.forrester.com/blogs/10-01-11-self_service_business_intelligence_dissolving_the_barriers_to_creative_decision_support_solutions/) <br>
+- [Fundamentals of Self-Service Machine Learning](https://www.dataversity.net/articles/fundamentals-of-self-service-machine-learning/) <br>
+- [The future of BI is Headless](https://medium.com/gooddata-developers/the-future-of-bi-is-headless-e3949bb0bf2) <br>
+- [How to Build Great Data Products](https://hbr.org/2018/10/how-to-build-great-data-products) <br>
+- [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) <br>
+- [The missing piece of the modern data stack](https://benn.substack.com/p/metrics-layer) <br>
+- [Understanding the Superset Semantic Layer](https://preset.io/blog/understanding-superset-semantic-layer/) <br>
+- [Self-Service Analytics: What, Why, and How?](https://www.gooddata.com/blog/what-selfservice-analytics-bi-really-means/) <br>
+- [What Is Real-Time Analytics?](https://startree.ai/resources/what-is-real-time-analytics/) <br>
+
+
+
 
 ## Chapter 10: Security and Privacy
 
-## Chapter 11: The Future of Data Engineering
+- [Building Secure and Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) <br>
+- [OWASP](https://owasp.org/) <br>
+- [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) <br>
+
+
